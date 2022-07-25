@@ -41,12 +41,7 @@ section{
 .heading span{
     color:var(--main-color);
     text-transform: uppercase;
-}
-.image{
-    border: 1px solid #ddd;
-  border-radius: 4px;
- 
-  width: 50px;
+
   
 }
 
